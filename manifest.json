@@ -1,0 +1,16 @@
+{
+  "short_name": "CloudSwap",
+  "name": "CloudSwap",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "864x864",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#6212a5",
+  "background_color": "#fff"
+}
